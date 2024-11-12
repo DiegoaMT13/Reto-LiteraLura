@@ -14,7 +14,7 @@
 <div align="center"><img src="https://cdn.prod.website-files.com/5f5a53e153805db840dae2db/64e79ca5aff2fb7295bfddf9_github-que-es.jpg" width="200"/></div>
 
 ####git clone -- Url de la APP
-https://github.com/DiegoaMT13/Reto-Conversor-De-Moneda.git
+(https://github.com/DiegoaMT13/Reto-LiteraLura.git)
 
 **La podrás ejecutar la APP a través IntelliJ IDEA**
 <div align="center"><img src="https://d3v6byorcue2se.cloudfront.net/wp-content/uploads/2018/09/logoIntelliJ-IDEA.png" width="200"/></div>
